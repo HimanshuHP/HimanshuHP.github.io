@@ -20,10 +20,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="146" column="47" lean-forward="false" selection-start-line="146" selection-start-column="47" selection-end-line="146" selection-end-column="47" />
+            <state relative-caret-position="124">
+              <caret line="57" column="60" lean-forward="false" selection-start-line="57" selection-start-column="60" selection-end-line="57" selection-end-column="60" />
               <folding>
-                <marker date="1524850317930" expanded="false" signature="8518:8530" ph="..." />
+                <marker date="1524850679953" expanded="false" signature="8695:8707" ph="..." />
               </folding>
             </state>
           </provider>
@@ -146,7 +146,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="techlogos" />
+              <option name="myItemId" value="tool-logos" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -176,6 +176,9 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/tool-logos" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/img/tool-logos" />
@@ -215,12 +218,12 @@
       <workItem from="1523855529502" duration="575000" />
       <workItem from="1523961304933" duration="2760000" />
       <workItem from="1523967644754" duration="596000" />
-      <workItem from="1524848991044" duration="1195000" />
+      <workItem from="1524848991044" duration="1526000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8525000" />
+    <option name="totallyTimeSpent" value="8856000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="778" extended-state="6" />
@@ -260,7 +263,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1524850317930" expanded="false" signature="8518:8530" ph="..." />
+            <marker date="1524850679953" expanded="false" signature="8695:8707" ph="..." />
           </folding>
         </state>
       </provider>
@@ -270,7 +273,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1524850317930" expanded="false" signature="8518:8530" ph="..." />
+            <marker date="1524850679953" expanded="false" signature="8695:8707" ph="..." />
           </folding>
         </state>
       </provider>
@@ -280,17 +283,12 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1524850317930" expanded="false" signature="8518:8530" ph="..." />
+            <marker date="1524850679953" expanded="false" signature="8695:8707" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/tool-logos/androidstudio.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/tool-logos/linkedin.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -328,12 +326,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/tool-logos/linkedin.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/tool-logos/gmail.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="146" column="47" lean-forward="false" selection-start-line="146" selection-start-column="47" selection-end-line="146" selection-end-column="47" />
+        <state relative-caret-position="124">
+          <caret line="57" column="60" lean-forward="false" selection-start-line="57" selection-start-column="60" selection-end-line="57" selection-end-column="60" />
           <folding>
-            <marker date="1524850317930" expanded="false" signature="8518:8530" ph="..." />
+            <marker date="1524850679953" expanded="false" signature="8695:8707" ph="..." />
           </folding>
         </state>
       </provider>
